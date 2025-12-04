@@ -5,7 +5,7 @@
 **PowerPoint Presentation:** https://docs.google.com/presentation/d/1QXKbDtZgFUzuXvawBMaK3MfcNf-dTCRt/edit?slide=id.p1#slide=id.p1
 
 **Project:** 
-2 studies (with EDA & Modeling) to see what to look for when assessing the risk of default in unsecured personal loans.  
+2 studies (with EDA & Modeling) to gauge what to look for when assessing default risk in unsecured personal loans.  
 
 First, Accepted and Rejected applications were compared to determine which criteria Lending Club used when screening applicants.
 
