@@ -2,6 +2,8 @@
 
 **Lending Club Datasets:** https://www.kaggle.com/datasets/wordsforthewise/lending-club
 
+**Blog Post:** https://nycdatascience.com/blog/student-works/lendingclub-personal-loan-success-rates/
+
 **PowerPoint Presentation:** https://docs.google.com/presentation/d/1QXKbDtZgFUzuXvawBMaK3MfcNf-dTCRt/edit?slide=id.p1#slide=id.p1
 
 **Project:** 
